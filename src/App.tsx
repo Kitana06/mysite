@@ -67,7 +67,7 @@ function App() {
         <div className="max-w-4xl mx-auto">
           {/* Replace the Heart component with your logo image */}
           <img 
-            src="/logo.jpg" 
+            src="./logo.jpg" 
             alt="Rosa Lya RDH Logo" 
             className="h-24 mx-auto mb-6"
           />
