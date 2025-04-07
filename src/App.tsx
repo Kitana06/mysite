@@ -65,7 +65,12 @@ function App() {
       {/* Hero Section */}
       <header className="py-20 px-4 text-center">
         <div className="max-w-4xl mx-auto">
-          <Heart className="w-16 h-16 text-accent-500 mx-auto mb-6" />
+          {/* Replace the Heart component with your logo image */}
+          <img 
+            src="/logo.jpg" 
+            alt="Rosa Lya RDH Logo" 
+            className="h-24 mx-auto mb-6"
+          />
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
             Professional Dental Hygiene Care
           </h1>
